@@ -1,0 +1,6 @@
+1. Make large-screen-only apply to all descdants of layout, not just layout.
+Probably need to use a decorator.
+
+2. Look into replacing stuff with decorators
+
+3. Check on relationship between mdl-textfield--expandable and mdl-textfield__expandable-holder
