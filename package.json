@@ -1,38 +1,12 @@
 {
-  "_from": "mdl-handlebars",
-  "_id": "mdl-handlebars@0.0.2",
-  "_inBundle": false,
-  "_integrity": "sha512-3xUsFjb3k4UVncQT0X1aIiZaJKUFA5+WY6kwnXVVt9eOxK6f/w6nl2IfUjvWQB/Ec0JLN/d0DRyffwzMLUFrwA==",
-  "_location": "/mdl-handlebars",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "mdl-handlebars",
-    "name": "mdl-handlebars",
-    "escapedName": "mdl-handlebars",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/mdl-handlebars/-/mdl-handlebars-0.0.2.tgz",
-  "_shasum": "eea1d21997f600012948307b61b030428b43941d",
-  "_spec": "mdl-handlebars",
-  "_where": "/Users/Diatta/Desktop/test",
   "author": {
     "name": "Alessandro Maclaine"
   },
   "bugs": {
-    "url": "https://github.com/ALMaclaine/mdl-handlebars/issues"
+    "url": "https://github.com/almtechhub/mdl-handlebars/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "A set of mdl helpers and partials that creates a set of Material Design Lite components.",
-  "homepage": "https://github.com/ALMaclaine/mdl-handlebars#readme",
+  "homepage": "https://github.com/almtechhub/mdl-handlebars#readme",
   "keywords": [
     "MDL",
     "Material",
@@ -46,10 +20,10 @@
   "name": "mdl-handlebars",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALMaclaine/mdl-handlebars.git"
+    "url": "git+https://github.com/almtechhub/mdl-handlebars.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
