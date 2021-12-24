@@ -3,10 +3,10 @@
     "name": "Alessandro Maclaine"
   },
   "bugs": {
-    "url": "https://github.com/almtechhub/mdl-handlebars/issues"
+    "url": "https://github.com/ALMArchive/mdl-handlebars/issues"
   },
   "description": "A set of mdl helpers and partials that creates a set of Material Design Lite components.",
-  "homepage": "https://github.com/almtechhub/mdl-handlebars#readme",
+  "homepage": "https://github.com/ALMArchive/mdl-handlebars#readme",
   "keywords": [
     "MDL",
     "Material",
@@ -20,10 +20,10 @@
   "name": "mdl-handlebars",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almtechhub/mdl-handlebars.git"
+    "url": "git+https://github.com/ALMArchive/mdl-handlebars.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
